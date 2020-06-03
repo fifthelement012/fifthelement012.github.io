@@ -75,7 +75,7 @@
 #question-circle {
   height: 100px;
   width: 100px;
-  background: #3cb878;
+  background: red;
   border-radius: 50%;
   color: white;
   font-size: 75px;
